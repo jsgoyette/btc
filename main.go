@@ -71,6 +71,7 @@ var acceptedMarkets = map[string]bool{
 	"BTC-DASH": true,
 	"BTC-DGD":  true,
 	"BTC-DOGE": true,
+	"BTC-ETC":  true,
 	"BTC-ETH":  true,
 	"BTC-LTC":  true,
 }
